@@ -233,7 +233,7 @@
     </form>
      <?php if($cadastro): ?>
      <div class="form-row justify-content-center">
-     <div class="text-danger">Cadastrado com Sucesso!..</div>
+     <div class="text-info">Cadastrado com Sucesso!..</div>
      </div>
 <?php endif; ?>
     </div>
